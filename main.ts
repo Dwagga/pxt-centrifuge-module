@@ -1,11 +1,11 @@
 enum RPM {
-    //% block="10.000 RPM"
+    //% block="10,000 RPM"
     tenrpm,
-    //% block="12.000 RPM"
+    //% block="12,000 RPM"
     twelverpm,
-    //% block="14.000 RPM"
+    //% block="14,000 RPM"
     fourteenrpm,
-    //% block="16.000 RPM"
+    //% block="16,000 RPM"
     sixteenrpm
 }
 
