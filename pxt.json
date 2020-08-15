@@ -1,7 +1,7 @@
 {
     "name": "pxt-centrifuge-module",
     "version": "0.0.0",
-    "description": "",
+    "description": "Extension to run the centrifuge module",
     "dependencies": {
         "adafruit-feather-m4-express": "*"
     },
